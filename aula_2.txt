@@ -1,0 +1,14 @@
+Server tem uma função determinada (roteaador, backup...)
+Client é o computador usado para acessar o servidor
+
+Mudança de memória na rede com o aparelho ligado não deve ser feito, só se o aparelho for feito para "Hot Swap"
+
+Equipamentos de uma rede: Desktop, servidor, celular, notebook, impressora,
+Switch
+.Gerenciável: Permite a configuração de prioridade no tráfego de informações
+.Não gerenciável: não permite a personallização no tráfego de dados
+
+Cabeamento estruturado: método de padronizado de cabear uma rede Cabo metálico ou Fibra ótica
+
+Placa de rede: computador necessita para se comunicar com outras máquinas
+Routeadores: Saber a rota da internet

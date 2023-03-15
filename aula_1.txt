@@ -1,0 +1,30 @@
+Tipos de redes::
+->LAN (Local Area Network): É um grupo de computadores e outros dispositivos interligados através de um meio de comunicação (cabos, links...) em uma área definida -Rede Local
+Beneficios: Compartilhamento de recursos e serviços (impressoras, aplicativos...) e segurança (física, lógica e humana)
+
+WLAN (Wireless Local Area Network): Refere a conexão dos dispositivos da rede local através de WiFi
+
+->WAN (Wide Area Network): Abrange áreas muito maiores que as LANs (cidades ou até continentes)
+
+MAN (Metropolitan Area Network): Conexão de diversas redes dentro de grandes áreas metropolitanas (dentro da região metropolitana)
+
+WMAN (Wireless Metropolitan Area Network): chega a dezenas de quilometros e conectar diversas redes de escritórios
+
+PAN (Personal Area Network): rede de area pessoal até 15m (bluetooth)
+
+
+
+Topologia de Redes: Como organizar os elementos de uma rede de comunicação, dois tipos: 
+Lógica:: Descreve como as máquinas interagem entre si e descreve os fluxos de dados entre elas
+.Broadcast: transmissão de informações para todas as possibilidades de destinos da rede (rádio)
+.Multicast: informações partem de um único transmissor para múltiplos destinatários já predeterminados (rádio da policia)
+.Unicast: informação enviada do transmissor para o receptor (uma única direção)
+.Ponto a ponto: aparelhos receptores e transmissores são conectados entre si
+
+Física::
+Topologia estrela: a rede organizada com os nós conectados a um hub central
+Topologia barramento: os dados fluem num longo cabo
+Topologia anel: os nós são configurados em um padrão circular
+Topologia Árvore: um nó central conecta hubs secundários
+Malha ou Mesh: entregues pela distancia mais curta (todos conectados a todos)
+Topologia híbrida:
