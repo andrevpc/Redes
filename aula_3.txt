@@ -1,0 +1,25 @@
+Rede Local
+IP (Internet Protocol): principal protocolo de comunicação, endereçar e encaminhar os pacotes que trafegam pela rede mundial de computadores
+
+TCP/IP (Transmission Control Protocol/Internet Protocol): conjunto de regras que permitem que computadores se comuniquem em uma rede como a internet, manda pacotes para a comunicação e volta passando informações entre um e outro, fala se o outro computador recebeu (mais confiável) (email)
+
+
+UDP (User Data Protocol): ele manda o pacote e vai embora, não importa se está ligado ou não (vídeo)
+
+Conceitos:
+IPv4 (Internet Protocol versão 4): permite que todos os computadores se comuniquem entre si, pela internet (ex.: 192.168.000.021 = 192.168.0.21
+Privado.Publico.Servidor.Aparelho
+IPv6: utiliza endereços no padrão 128 bits
+DHCP (Dynamic Host Configuration Protocol): IP dinâmico, muda, às vezes de um dia para o outro
+FIXO: Não muda
+
+Máscara de sub-rede: torna possivel segmentar redes grandes em redes menores, favorecendo um fluxo e um tráfego de informações mais dinâmico, evitando sobrecarga nos servidores e na rede, separa computadores em classes, isso permite que coloquemos mais que 255 computadores em uma Rede Local (192.168.010/24 -> MS=255.255.255.0
+192.168.010/24 -> MS=255.255.255.0, é a mesma máscara)
+
+IP e MS são dados pelo roteador
+
+GP (Gate Padrão): IP do router, todo computador tem, após conectar com o router
+
+DNS (Domain Name System): registro que contém nomes de sites e respectivos endereços IP associados, essa correlação favorece a transferência de dados entre computadores é ele que permite o acesso à internet e fala aonde acessar, o router fornece o DNS primario e secundario para os aparelhos conectados a rede, quem fornece isso ao router é a operadora, já vem dentro dele quando a operadora entrega (vivo!=claro)
+
+para ver isso no computador colocamos ipconfig no prompt de comando(cmd)
